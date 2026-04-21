@@ -159,7 +159,7 @@ h1 {
     padding: 28px;
     background:
         linear-gradient(180deg, rgba(47, 26, 19, 0.9), rgba(87, 45, 29, 0.94)),
-        url("images/gallery2.jpg") center/cover;
+        url("gallery2.jpg") center/cover;
     color: #fff8ef;
 }
 
