@@ -223,7 +223,7 @@ img {
     padding: 2rem;
     background:
         linear-gradient(180deg, rgba(255, 255, 255, 0.95), rgba(248, 241, 231, 0.96)),
-        url("../images/gallery2.jpg") center/cover no-repeat;
+        url("gallery2.jpg") center/cover no-repeat;
 }
 
 .panel-tag {
