@@ -9,8 +9,8 @@ const clearCartButton = document.getElementById("clear-cart");
 const checkoutButton = document.getElementById("checkout-btn");
 const orderSuccessEl = document.getElementById("order-success");
 const newOrderButton = document.getElementById("new-order-btn");
-const summaryCardEl = document.getElementById("summary-card");
-const promoCardEl = document.getElementById("promo-card");
+const summaryCardEl = document.querySelector(".summary-card");
+const promoCardEl = document.querySelector(".promo-card");
 const cartHeadingEl = document.querySelector(".cart-panel .section-heading");
 
 let cart = readCart();
